@@ -148,3 +148,64 @@ This project was developed to practice **industrial PLC programming** and simula
 Electrical & Automation Engineer  
 
 GitHub Portfolio Project
+## Project Screenshots
+
+### Main Overview
+
+![Overview](Overview.png)
+
+### Auto Control Mode
+
+![Auto Control](Control_Auto.png)
+
+### Manual Control Mode
+
+![Manual Control](Control_Manual.png)
+
+### Diagnostics Page
+
+![Diagnostics](Diagnostics.png)
+
+### Low Pressure Alarm
+
+![Low Pressure Alarm](Alarm_low_pressure.png)
+
+### Overpressure Alarm
+
+![Overpressure Alarm](Alarm_Overpressure.png)
+
+### VFD Fault Alarm
+
+![VFD Fault](Alarm_VFD_Fault.png)
+
+---
+
+## PLC Logic
+
+### Main PLC Logic Part 1
+
+![PLC Logic 1](plc_logic_1.png)
+
+### Main PLC Logic Part 2
+
+![PLC Logic 2](plc_logic_2.png)
+
+### Main PLC Logic Part 3
+
+![PLC Logic 3](plc_logic_3.png)
+
+### Main PLC Logic Part 4
+
+![PLC Logic 4](plc_logic_4.png)
+
+### Main PLC Logic Part 5
+
+![PLC Logic 5](plc_logic_5.png)
+
+### Main PLC Logic Part 6
+
+![PLC Logic 6](plc_logic_6.png)
+
+### Main PLC Logic Part 7
+
+![PLC Logic 7](plc_logic_7.png)
